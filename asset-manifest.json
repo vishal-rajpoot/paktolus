@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/paktolus/static/css/main.ccc12853.css",
+    "main.js": "/paktolus/static/js/main.5076fd38.js",
+    "static/media/rcb.png": "/paktolus/static/media/rcb.1b59c77f0e5939f9bf94.png",
+    "static/media/bg.jpg": "/paktolus/static/media/bg.66e0027b10c3d4382c78.jpg",
+    "static/media/kkr.jpg": "/paktolus/static/media/kkr.91483b1d5de2a22210b5.jpg",
+    "static/media/csk.png": "/paktolus/static/media/csk.0f3ebac69e25c2b2a5ef.png",
+    "static/media/rr.jpg": "/paktolus/static/media/rr.78f0330df021d591d0e6.jpg",
+    "static/media/avatar.png": "/paktolus/static/media/avatar.89702347643c00c0618c.png",
+    "static/media/mi.jfif": "/paktolus/static/media/mi.9eda0ce2d3f5b1c230f7.jfif",
+    "index.html": "/paktolus/index.html",
+    "main.ccc12853.css.map": "/paktolus/static/css/main.ccc12853.css.map",
+    "main.5076fd38.js.map": "/paktolus/static/js/main.5076fd38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccc12853.css",
+    "static/js/main.5076fd38.js"
+  ]
+}
