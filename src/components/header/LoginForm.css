@@ -1,0 +1,52 @@
+.loginwrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.form{
+    width: 1200px;
+    height: 400px;
+    background: rgba(207, 207, 207, 0.9);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    position: relative;
+    animation: fade 0.8s;
+}
+.btnClose{
+    position: absolute;
+    top: 8px;
+    right: 8px;
+}
+.images{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.bannerimg{
+    height: 250px;
+    width: 230px;
+    margin-right: 7px;
+    cursor: pointer;
+}
+h3{
+    color: rgb(0, 0, 0);
+}
+.Teams-column{
+    margin-top: 50px;
+    animation: fade 0.8s;
+}
+
+@keyframes fade{
+    0% {
+        opacity: 0;
+        transform: translateY(-50px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}

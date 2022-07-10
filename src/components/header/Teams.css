@@ -1,0 +1,51 @@
+.Teams{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    background: rgb(255, 255, 255);
+    padding: 5%;
+    position: relative;
+    border-radius: 5px;
+}
+h2{
+    color: rgb(156, 156, 156);
+}
+.input{
+    margin: 5px;
+    padding: 10px;
+    background: transparent;
+    outline: none;
+    border: none;
+    border-bottom: 2px solid rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+}
+#characterstics{
+    background: #000;
+    color: #fff;
+    border: none;
+    padding: 4px;
+    border-radius: 4px;
+    outline: none;
+}
+
+.checkbox{
+    margin-right: 5px;
+}
+.Closebtn{
+    position: absolute;
+    top: 8px;
+    right: 8px;
+}
+.add-btn{
+    background: rgb(0, 89, 255);
+    outline: none;
+    border: none;
+    color: #fff;
+    margin-top: 10px;
+    padding: 5px 15px;
+    font-weight: 600;
+    border-radius: 4px;
+}

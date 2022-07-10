@@ -1,0 +1,69 @@
+.navFlex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    background-color: rgb(240, 240, 240);
+    padding: 0.7% 10%;
+    box-shadow: 0 0  5px rgb(209, 209, 209);
+}
+.main-data{
+  margin-top: 100px;
+  
+}
+span{
+  font-size: 65px;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+p{
+  font-family: cursive;
+  
+}
+.list{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 5%;
+  margin-bottom: 0%;
+}
+.list li {
+  list-style: none;
+  font-size: 18px;
+  color: #000;
+  margin-left: 5rem;
+  cursor: pointer;
+}
+.navFlex h3{
+  font-size: 25px;
+  font-weight: 700;
+  font-family: cursive;
+  color: #000;
+  cursor: pointer;
+}
+
+.navFlex h2{
+  font-size: 25px;
+  font-family: cursive;
+}
+.Avatarimg{
+  cursor: pointer;
+}
+.openform{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* position: relative; */
+  
+}
+.main-para{
+  margin: 10px 100px;
+}
+.btnlogin{
+  /* position: absolute; */
+  top: 15%;
+ left: 40%;
+}
+.add-btn{
+  margin: 55px;
+}
